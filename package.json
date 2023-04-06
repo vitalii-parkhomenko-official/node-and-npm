@@ -1,0 +1,25 @@
+{
+  "name": "node-and-npm",
+  "version": "1.0.0",
+  "description": "This is initial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalii-parkhomenko-official/node-and-npm.git"
+  },
+  "author": "Vitalii Parkhomenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalii-parkhomenko-official/node-and-npm/issues"
+  },
+  "homepage": "https://github.com/vitalii-parkhomenko-official/node-and-npm#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
